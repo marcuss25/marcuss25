@@ -4,15 +4,6 @@
 ### Sobre mim
 Sou estudante de Desenvolvimento de Sistemas pela SEAD (Etec) e entusiasta de tecnologia, sistemas e computadores. Atualmente, procuro aprender mais sobre **desenvolvimento web**, **cibersegurança** e **forense digital**, além de aprimorar meus conhecimentos em C# e C++.
 
-### Sistemas que Utilizo
-
-- Fedora: [The Fedora Project](https://fedoraproject.org)
-- Kali Linux: [Kali Linux](https://www.kali.org)
-
-### Contato
-- LinkedIn: [Marcus Silva](https://www.linkedin.com/in/marcuss-silva)
-- Gmail: [sobralvinicius8@gmail.com](mailto:sobralvinicius8@gmail.com)
-
 ### Projetos
 
 #### 📚 Sistema de Biblioteca
@@ -38,3 +29,12 @@ Projeto colaborativo desenvolvido com **Enzo**, voltado para gestão financeira 
 **Tecnologias:** React · JavaScript · C# · ASP.NET Core · SQL · JWT
 
 [🔗 Ver projeto](https://github.com/EnzoTakeshi588/bridgemei)
+
+### Sistemas que Utilizo
+
+- Fedora: [The Fedora Project](https://fedoraproject.org)
+- Kali Linux: [Kali Linux](https://www.kali.org)
+
+### Contato
+- LinkedIn: [Marcus Silva](https://www.linkedin.com/in/marcuss-silva)
+- Gmail: [sobralvinicius8@gmail.com](mailto:sobralvinicius8@gmail.com)
