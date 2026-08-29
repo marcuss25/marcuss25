@@ -12,3 +12,29 @@ Sou estudante de Desenvolvimento de Sistemas pela SEAD (Etec) e entusiasta por t
 ### Contato
 - LinkedIn: [Marcus Silva](https://www.linkedin.com/in/marcuss-silva)
 - Gmail: [sobralvinicius8@gmail.com](mailto:sobralvinicius8@gmail.com)
+
+### Projetos
+
+#### 📚 Sistema de Biblioteca
+
+Sistema de gerenciamento de biblioteca desenvolvido em **C++**, com funcionalidades de cadastro, busca, listagem, empréstimo e devolução de livros. Possui persistência dos dados em arquivo externo e suporte a CMake.
+
+**Tecnologias:** C++
+
+[🔗 Ver projeto](https://github.com/marcuss25/biblioteca)
+
+#### 🔐 Genius API
+
+API de autenticação desenvolvida em **C# e ASP.NET Core**, com cadastro e login de usuários, autenticação via **JWT** e integração com **MySQL**.
+
+**Tecnologias:** C# · ASP.NET Core · JWT · MySQL
+
+[🔗 Ver projeto](https://github.com/marcuss25/API-Login)
+
+#### 🌉 BridgeMEI
+
+Projeto colaborativo desenvolvido com **Enzo**, voltado para gestão financeira de pequenos negócios. O sistema possui frontend em React, backend em ASP.NET Core, banco de dados SQL e autenticação via JWT.
+
+**Tecnologias:** React · JavaScript · C# · ASP.NET Core · SQL · JWT
+
+[🔗 Ver projeto](https://github.com/EnzoTakeshi588/bridgemei)
